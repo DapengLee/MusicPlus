@@ -1,3 +1,5 @@
+音频处理另外一个更完整的项目：https://github.com/YeDaxia/AndroidAudioMixer
+
 # MusicPlus
 MusicPlus基于MediaExtractor、MediaMuxer、和MediaCodec等工具类，来实现了对视频中音频的提取，然后和其他音频进行混音后，再用新的音频来合成新的视频。如果你对于音频格式之间的转换感兴趣，比如WAV转ACC格式，也可以在其中找到相关的代码。
 
